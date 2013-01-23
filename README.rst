@@ -1,3 +1,11 @@
+=========
+ATTENTION
+=========
+
+This is a fork of the *old* vim-powerline by Lokaltod.
+
+I backup it hear from my previous installation because i can't find it anymore on their repository.
+
 ===================
 DEPRECATION WARNING
 ===================
